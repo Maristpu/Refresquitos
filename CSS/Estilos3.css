@@ -1,0 +1,28 @@
+body{
+    background-color: #A7FCA4;
+    font-family: Arial;
+}
+
+ul {
+    list-style-type:none;
+    text-align:center;
+    }
+
+li {
+    display:inline;
+    text-align:center;
+    margin:0 10px 0 0;
+}  
+
+li a {
+    padding:2px 7px 2px 7px;
+    color:#666;
+    background-color:#eee;
+    border:1px solid #ccc;
+    text-decoration:none;
+}
+
+a:hover {
+    background-color:#333;
+    color:#fff;
+}

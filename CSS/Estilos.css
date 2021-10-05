@@ -1,0 +1,37 @@
+body{
+    background-color: lightskyblue;
+}
+
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    font-size: 20px;
+}
+
+li {
+    display: inline-block;
+    margin: 5px;
+}
+
+li a {
+    display: inline-block;
+    color:grey;
+    text-align: center;
+    
+}
+
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100px;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color:gold;
+}
